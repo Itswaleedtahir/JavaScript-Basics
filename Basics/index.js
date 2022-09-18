@@ -25,3 +25,5 @@ intrestRate = 1;
 console.log(intrestRate);
 
 //Primitives/ValueTypes
+
+let name = 'waleed'; //String literal
