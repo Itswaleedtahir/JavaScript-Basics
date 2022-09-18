@@ -29,3 +29,5 @@ console.log(intrestRate);
 let name = 'waleed'; //String literal
 let age = 21; //Number literal
 let isApproved = false; // Boolean literal
+let firstName = undefined; 
+let selectColor = null;
