@@ -1,3 +1,5 @@
+//let in javascript
+
 let name = 'Waleed';
 console.log(name);
 
