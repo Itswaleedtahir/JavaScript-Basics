@@ -14,3 +14,11 @@ let firstName = 'waleed';
 let lastName = 'tahir';
 
 console.log(firstName +''+ lastName);
+
+//const in javascript
+
+
+const intrestRate = 0.3;
+intrestRate = 1;
+
+console.log(intrestRate);
