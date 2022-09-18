@@ -19,6 +19,7 @@ console.log(firstName +''+ lastName);
 
 
 const intrestRate = 0.3;
+//we cannot assign another value to intrestRate as it is const
 intrestRate = 1;
 
 console.log(intrestRate);
