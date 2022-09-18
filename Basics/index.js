@@ -27,3 +27,5 @@ console.log(intrestRate);
 //Primitives/ValueTypes
 
 let name = 'waleed'; //String literal
+let age = 21; //Number literal
+
