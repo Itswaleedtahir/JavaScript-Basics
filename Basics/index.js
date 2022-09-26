@@ -20,16 +20,24 @@ console.log(firstName +''+ lastName);
 
 const intrestRate = 0.3;
 //we cannot assign another value to intrestRate as it is const
-intrestRate = 1;
+//intrestRate = 1;
 
-console.log(intrestRate);
+//console.log(intrestRate);
 
 //Primitives/ValueTypes
 
-let name = 'waleed'; //String literal
+//let name = 'waleed'; //String literal
 let age = 21; //Number literal
 let isApproved = false; // Boolean literal
-let firstName = undefined; 
+//let firstName = undefined; 
 let selectColor = null;
 
 //Objects in javascript
+
+let person = {
+    name: 'Waleed',
+    age: 21,
+}
+//
+
+console.log(person);
