@@ -38,6 +38,11 @@ let person = {
     name: 'Waleed',
     age: 21,
 }
-//
+//Dot notation
+person.name = 'Tahir';
+
+//Bracket Notation
+person ['name']= 'Waleed';
+
 
 console.log(person);
