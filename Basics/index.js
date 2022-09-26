@@ -31,3 +31,5 @@ let age = 21; //Number literal
 let isApproved = false; // Boolean literal
 let firstName = undefined; 
 let selectColor = null;
+
+//Objects in javascript
