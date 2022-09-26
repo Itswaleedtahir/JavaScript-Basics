@@ -53,8 +53,8 @@ seletColor[4] = 'Black'
 console.log(seletColor.length);
 
 //Function in javascript
-function greet(){
-    console.log('hello');
+function greet(name , lastname){
+    console.log('hello '+ name + ' ' + lastname) ;
 };
 
-greet();
+greet( 'Waleed', 'Tahir');
