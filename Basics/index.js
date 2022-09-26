@@ -51,3 +51,10 @@ console.log(person);
 let seletColor = ['Red', 'Green', 'Blue', 'Yellow', ];
 seletColor[4] = 'Black' 
 console.log(seletColor.length);
+
+//Function in javascript
+function greet(){
+    console.log('hello');
+};
+
+greet();
