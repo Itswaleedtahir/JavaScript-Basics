@@ -46,3 +46,8 @@ person ['name']= 'Waleed';
 
 
 console.log(person);
+
+//Arrays in javascript
+let seletColor = ['Red', 'Green', 'Blue', 'Yellow', ];
+seletColor[4] = 'Black' 
+console.log(seletColor.length);
