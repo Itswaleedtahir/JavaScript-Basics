@@ -24,3 +24,16 @@ a+=5;
 a = a*4;
 a*=4;
 console.log(a);
+
+//Comparison operators
+let b = 1;
+
+//relation operators
+console.log(b > 0);
+console.log(b >= 0);
+console.log(b < 0);
+console.log(b <= 0);
+
+//Equality operators
+console.log(b === 0);
+console.log(b !== 0);
